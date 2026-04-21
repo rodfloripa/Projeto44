@@ -6,8 +6,11 @@
 <p align="justify">O sistema utiliza <b>FAISS</b> para busca vetorial em embeddings de documentos, <b>Neo4j</b> para modelagem de relações entre entidades e <b>RAGAS</b> para avaliação quantitativa das respostas geradas pelo modelo.</p>
 
 Para rodar:
+
 Descompacte neo4j_data.tar.gz
+
 Insira sua chave OpenAI no .env
+
 > docker-compose up --build
 
 <p align="justify"><h3>1. Visão geral do sistema</h3></p>
