@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+networkx
+pandas
+numpy
+ragas==0.1.21
+datasets
+tiktoken
+pypdf
+openai
+neo4j
